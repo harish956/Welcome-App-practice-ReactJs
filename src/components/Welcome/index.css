@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+  font-size: 36px;
+}
+.para {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 26px;
+}
+.button {
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  border: none;
+  text-align: center;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: 'Bree Serif';
+}
